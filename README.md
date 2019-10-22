@@ -15,3 +15,10 @@ You are looking at data from an e-commerce website. The site is very simple and 
 2. From the home page, the user can perform a search and land on the search page.
 3. From the search page, if the user clicks on a product, she will get to the payment page, where she is asked to provide payment information in order to buy that product.
 4. If she does decide to buy, she ends up on the confirmation page
+
+
+### The company CEO isn’t very happy with the company sales and, especially, sales coming from new users. Therefore, she asked you to investigate whether there is something wrong in the conversion funnel or, in general, if you can create hypotheses on how conversion rate could be improved.
+
+Specifically, she is interested in :
+1. A full picture of funnel conversion rate for both desktop and mobile
+2. Some insights on what the product team should focus on in order to improve conversion rate as well as any anything you might discover that could help improve conversion rate.
